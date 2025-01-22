@@ -10,12 +10,12 @@ const Login = () => {
                     <input type="text"  placeholder= 'Username...' required/>
                 </div>
                 <div className = "input-box">
-                    <input type="text"  placeholder= 'Email...' required/>
-                </div>
-                <div className = "input-box">
                     <input type="text"  placeholder= 'Password...' required/>
                 </div>
-                
+                <div className="check-account">
+                    <a href="#">Forgot password?</a>
+                </div>
+                <button type="submit">CONFIRM</button>
             </from>
         </div>
     );
