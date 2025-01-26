@@ -4,8 +4,7 @@
 }
 
 body {
-    background-image: './img/BH_bg.jpg';
-    background-size: cover;
+    background-color: black;
     color: rgb(255, 255, 255);
 
 }
